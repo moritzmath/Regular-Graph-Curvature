@@ -1,0 +1,5 @@
+cython
+numpy
+scipy>=1.0
+networkx>=2.0
+networkit>=6.1
